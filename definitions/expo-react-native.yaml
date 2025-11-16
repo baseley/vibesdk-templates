@@ -2,7 +2,7 @@ id: expo-react-native
 # 'name' must match the template directory under definitions/ (used by generator)
 name: expo-react-native
 displayName: "React Native (Expo)"
-base_reference: "vite-reference"
+base_reference: "react-native-reference"
 description: "Minimal Expo React Native app (TypeScript) with a Snack preview URL for quick testing."
 icon: "expo"
 language: typescript

@@ -1,0 +1,15 @@
+id: expo-react-native
+name: "React Native (Expo)"
+description: "Minimal Expo React Native app (TypeScript) with a Snack preview URL for quick testing."
+icon: "expo"
+tags:
+  - react-native
+  - expo
+  - mobile
+files:
+  - path: template/
+prompts:
+  - name: appName
+    label: "App name"
+    default: "VibeApp"
+previewUrl: "https://snack.expo.dev/@vibesdk/vibe-expo-template"

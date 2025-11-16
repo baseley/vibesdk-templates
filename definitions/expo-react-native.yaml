@@ -1,7 +1,18 @@
 id: expo-react-native
 name: "React Native (Expo)"
+  - react-native
+  - expo
+  - mobile
+  - path: template/
+  - name: appName
+    label: "App name"
+    default: "VibeApp"
 description: "Minimal Expo React Native app (TypeScript) with a Snack preview URL for quick testing."
 icon: "expo"
+language: typescript
+frameworks:
+  - react-native
+  - expo
 tags:
   - react-native
   - expo
